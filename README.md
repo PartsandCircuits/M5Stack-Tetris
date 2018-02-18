@@ -4,7 +4,7 @@ Tetris for the M5Stack.
 
 Ported to M5Stack by macsbug  -   https://macsbug.wordpress.com/ 
 
-Code originally from MhageGH  - MhageGH/esp32_ST7735_Tetris
+Code originally from MhageGH  - [MhageGH/esp32_ST7735_Tetris] (https://github.com/MhageGH/esp32_ST7735_Tetris).
 
 
 Setup
